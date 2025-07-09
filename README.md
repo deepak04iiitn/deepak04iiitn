@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deepak04iiitn&label=Profile%20views&color=0e75b6&style=flat" alt="deepak04iiitn" /> </p>
 
-- 🌱 I’m currently learning **Typescript , NextJs , React Native**
+- 🌱 I’m currently learning **System Design , AI & Machine Learning**
 
 - 💬 Ask me about **Web and App Development**
 
