@@ -5,13 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deepak04iiitn&label=Profile%20views&color=0e75b6&style=flat" alt="deepak04iiitn" /> </p>
 
-- 🌱 I’m currently learning **System Design , AI & Machine Learning**
+- 🌱 I’m currently learning **System Design , Agentic AI**
 
-- 💬 Ask me about **Web and App Development**
+- 💬 Ask me about **Web and App Development, Agentic and Gen AI**
 
 - 📫 How to reach me **dky422003@gmail.com**
-
-- ⚡ Fun fact **I think I am funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
