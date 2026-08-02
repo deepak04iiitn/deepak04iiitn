@@ -4,7 +4,7 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2600&pause=900&color=00C9FF&center=true&vCenter=true&width=650&lines=Software+Developer+%40+Ashwam;Flutter+%7C+React+%7C+Next.js+%7C+Node.js;Building+Agentic+AI+Systems;800%2B+DSA+Problems+Solved;Always+Shipping+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2600&pause=900&color=00C9FF&center=true&vCenter=true&width=750&lines=Software+Developer+%40+Ashwam;React.js+%7C+Next.js+%7C+Node.js+%7C+MongoDB;Gen+AI+%7C+React+Native;Building+Agentic+AI+Systems;800%2B+DSA+Problems+Solved;Always+Shipping+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 <p>
 <img src="https://komarev.com/ghpvc/?username=deepak04iiitn&label=Profile%20Views&color=00c9ff&style=for-the-badge"/>
@@ -80,48 +80,6 @@ reach_me: dky422003@gmail.com
 <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white"/>
 <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
 
-</div>
-
----
-
-### 🚀 Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/deepak04iiitn">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=deepak04iiitn&repo=AskBro&theme=tokyonight&hide_border=true"/>
-</a>
-<a href="https://github.com/deepak04iiitn">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=deepak04iiitn&repo=Route2Hire&theme=tokyonight&hide_border=true"/>
-</a>
-
-</div>
-
-> 🔹 **AskBro** — AI-powered engineering knowledge platform
-> 🔹 **Route2Hire** — Job aggregation platform
->
-> *(Update repo names above if they differ from your actual GitHub repo slugs)*
-
----
-
-### 📊 GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=deepak04iiitn&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=deepak04iiitn&theme=tokyonight&hide_border=true" width="49%"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepak04iiitn&layout=compact&theme=tokyonight&hide_border=true" width="49%"/>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=deepak04iiitn&theme=tokyo-night&hide_border=true" width="100%"/>
-
-</div>
-
----
-
-### 🏆 Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=deepak04iiitn&theme=tokyonight&no-frame=true&column=7&margin-w=8&margin-h=8"/>
 </div>
 
 ---
