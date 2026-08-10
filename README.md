@@ -5,7 +5,7 @@
 <br/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2600&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&height=32&lines=Software+Developer+%40+Ashwam+Health;React+%C2%B7+Next.js+%C2%B7+Node.js+Express.js+%C2%B7+MongoDB+%C2%B7;Designing+Agentic+AI+Systems+with+LangGraph;800%2B+DSA+Problems+Solved;Always+Shipping%2C+Always+Learning" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2600&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&height=32&lines=Software+Developer+%40+Ashwam+Health;React+%C2%B7+Next.js+%C2%B7+Node.js+Express.js+%C2%B7+MongoDB+%C2%B7;Designing+Agentic+AI+Systems+with+Langchain+LangGraph;800%2B+DSA+Problems+Solved;Always+Shipping%2C+Always+Learning" />
 </a>
 
 <br/><br/>
@@ -25,9 +25,9 @@
 ```yaml
 role:        Software Developer @ Ashwam (Health & Wellness App)
 background:  B.Tech Electronics & Communication, IIIT Nagpur (CGPA: 8.43)
-focus:       Flutter · Full-Stack Web · Agentic AI Systems
+focus:       Full-Stack Web · Agentic AI Systems · Android Dev (React Native & Flutter)
 philosophy:  "Turning ideas into shipped products — one component, one agent, one commit at a time."
-currently:   Building onboarding flows, QA automation & LangGraph-powered agents
+currently:   Currently exploring System Design (LLD & HLD) and building Gen AI Systems
 ```
 
 <table>
